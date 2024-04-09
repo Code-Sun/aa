@@ -6,7 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="m-p" />
+        <module name="m-core" />
+        <module name="m-service" />
+        <module name="m-dao" />
       </profile>
     </annotationProcessing>
   </component>
