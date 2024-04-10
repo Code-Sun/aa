@@ -13,6 +13,7 @@
         <module>m-service</module>
         <module>m-dao</module>
         <module>m-pojo</module>
+        <module>m-controller</module>
     </modules>
 
 
